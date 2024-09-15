@@ -53,3 +53,39 @@ This project aims to provide a robust platform for organizing and tracking tasks
    ```bash
    git clone https://github.com/yourusername/task-management-system.git
    cd task-management-system/backend
+
+3. **Install dependencies:**
+   - go mod tidy
+
+4. **Run the application:**
+   - go run main.go
+
+### Frontend
+
+1. **Install Node:**
+   - Follow the official Node.js installation guide to install Node.js and npm.
+
+2. **Navigate to frontend directory:**
+   ```bash
+   cd task-management-system/frontend
+
+3. **Install dependencies:**
+   - npm install
+
+4. **Run the application:**
+   - npm start
+
+### Usage
+
+1. **Open the Application:**
+
+  - Navigate to http://localhost:3000 in your browser to access the task management system.
+
+2. **Create Tasks:**
+  - Use the form to add new tasks.
+    
+3. **Edit Tasks:**
+  - Click the "Edit" button next to a task to update it.
+
+4. **Delete Tasks:**
+  - Click the "Delete" button next to a task to remove it
