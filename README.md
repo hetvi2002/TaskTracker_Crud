@@ -78,7 +78,6 @@ This project aims to provide a robust platform for organizing and tracking tasks
 ### Usage
 
 1. **Open the Application:**
-
   - Navigate to http://localhost:3000 in your browser to access the task management system.
 
 2. **Create Tasks:**
